@@ -129,13 +129,24 @@ names(maraton)
 str(maraton)
 nrow(maraton)
 View(maraton)
+maraton
 
 install.packages("dplyr")
 library("dplyr")
 glimpse(maraton)
 summary(maraton)
 
+head(maraton)
+head(maraton, 3)
+tail(maraton, 10)
 
+
+install.packages("RWeka")
+library("RWeka")
+
+
+#una observación es lo equivalaente a un registro y una variable es lo equivalente a una columna
+#KDD selección de datos, procesamiento, transformación, minería de datos, análisis y evaluación
 
 
 
