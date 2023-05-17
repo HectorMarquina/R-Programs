@@ -147,6 +147,7 @@ library("RWeka")
 
 #una observación es lo equivalaente a un registro y una variable es lo equivalente a una columna
 #KDD selección de datos, procesamiento, transformación, minería de datos, análisis y evaluación
+#Cada data frame corresponde a un solo tipo de observational unit. Son como los beans o variables que describen una entidad. En el maraton es una persona
 
 
 
